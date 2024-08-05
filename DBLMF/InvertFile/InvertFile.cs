@@ -1,20 +1,25 @@
-// Made by Godku Project
-
 using System;
 using System.IO;
 using System.Diagnostics;
 
-namespace DragonBallLegendsDevelopment
+namespace InvertFile
 {
-    public class FileProcessor
+    /// <summary>
+    /// Provides functionality to invert the bytes of a specified file.
+    /// </summary>
+    public class InvertFile
     {
         private static readonly string ExpectedFileName = 
-            "𝟾𝟿𝚋𝚋𝟺𝚎𝚋𝟻𝟼𝟹𝟽𝚍𝚏𝟹𝚌𝚍𝟿𝟼𝚌𝟺𝟼𝟹𝚊𝟽𝟿𝟻𝟶𝟶𝟻𝟶𝟼𝟻" +
-            "𝟿𝟾𝚌𝟺𝚏𝟶𝟶𝚋𝟾𝚎𝚍𝟼𝟼𝟻𝟻𝚋𝚌𝚎𝟺𝚋𝟼𝚏𝟾𝟶𝚌𝚍𝟶𝚎𝟷𝟷𝟼𝟺" +
-            "𝟷𝚎𝟿𝚌𝚏𝚋𝟽𝚊𝚏𝚊𝟾𝚏𝟶𝚍𝚏𝟶𝚏𝟼𝟻𝟿𝟶𝚌𝟶𝟿𝟻𝟺𝚊𝚏𝟿𝟶𝟸𝟻" +
-            "𝚊𝟻𝟼𝟻𝚋𝚎𝟾𝚋𝟷𝟷𝚍𝟸𝟼𝟹𝟸𝟿𝟺𝚌𝚍𝟸𝚊𝟽𝟷𝟼𝟽𝟼𝟿𝚍𝚋𝟾𝟼𝟶" +
-            "𝚊𝚍𝟺𝟼𝟶𝚍𝚌𝟻𝟺𝚋𝚋𝟻𝟽𝟼𝟿𝚍𝟼𝟻𝚏𝟺𝟹𝟼𝚊𝚏𝚌𝟶𝟸𝚎𝚍𝟾𝚊𝚎";
+            "89bb4eb5637df3cd96c463a795005065 " +
+            "98c4f00b8ed6655bce4b6f80cd0e1164" +
+            "1e9cfb7afa8f0df06590c0954af9025" +
+            "a565be8b11d263294cd2a71676db860" +
+            "ad460dc54bb5769d65f436afc02ed8ae";
 
+        /// <summary>
+        /// Processes the specified file by inverting its bytes if the file name matches the expected name.
+        /// </summary>
+        /// <param name="filePath">The path of the file to process.</param>
         public static void ProcessFile(string filePath)
         {
             TraceSource traceSource = new TraceSource("FileProcessorTraceSource");
