@@ -9,6 +9,9 @@ using System.Security.Cryptography;
 
 namespace DBLMF
 {
+    /// <summary>
+    /// Provides methods for processing files, including validation and modification of file contents.
+    /// </summary>
     public static class FileProcessor
     {
         private static readonly string ExpectedFileName = "98c4f00b8ed6655bce4b6f80cd0e1164";
