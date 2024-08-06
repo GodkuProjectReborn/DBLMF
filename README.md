@@ -1,6 +1,6 @@
 # DBLMF
 
-A Open Source experimental Dragon Ball Legends Modding Framework made in CSharp.
+An open source experimental dragon ball legends modding framework made in CSharp.
 
 ## navigation
 
@@ -13,7 +13,7 @@ A Open Source experimental Dragon Ball Legends Modding Framework made in CSharp.
 **Discord** - [`Godku Project Reborn`](https://discord.gg/godkuprojectreborn)
 
 
-## how to integrate InvertFile.dll into your code
+## how to integrate `InvertFile.dll` into your code
 
 ```csharp
 // example usage by godku project
@@ -76,6 +76,6 @@ namespace InvertFileProcessor
 
 First you need [.NET 6.0](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
 
-Then make the file and a .csproj (provided in the wiki soon)
+Then make the file and a .csproj (will be provided in the wiki soon)
 
-Finally use `dotnet build` and if there are ANY errors make a [issue](https://github.com/GodkuProjectReborn/DBLMF/issues) and We will fix the example code and help troubleshoot
+Finally use `dotnet build` and if there are ANY errors make an [issue](https://github.com/GodkuProjectReborn/DBLMF/issues) and we will (hopefully) fix the example code and help troubleshoot it.
