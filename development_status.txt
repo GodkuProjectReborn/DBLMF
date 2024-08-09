@@ -1,0 +1,13 @@
+// -----* Created by Godku Project® @ 2024 *----- //
+
+// -----* Development Status *----- //
+[Upcoming]: InvertFile Version 1.1.0
+[Upcoming]: Documentation Website
+[In Development]: A database to store data on EVERY character from DB Legends.
+[In Development]: An application to play the game and MAYBE complete the story "(Not a full farm bot, as Mindset Rez and Darklaser38 are making one already, but it's not public source code)."
+[Upcoming]: A new application that will utilize the database to edit stars, Zenkai, and more.
+
+// -----* Credits and Partners *----- //
+"https://discord.gg/NBxTbEMznf" // zrv | this server has the farmbot thats not released yet but is being tested.
+"https://discord.gg/godkuprojectreborn" // this server has a mod apk, file modding bot, and is owned by darklaser38.
+"https://discord.gg/kxr" // Join KXR's server frl
