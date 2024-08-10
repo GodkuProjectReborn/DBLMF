@@ -1,5 +1,7 @@
 # Welcome to DBLMF | Dragon Ball Legends Modding Framework
 
+![Banner](https://dblegends.net/assets/card_cutins/BChaCut_0621_GogetaSS4_621.webp)
+
 For more mod's and support visit [godku project](https://discord.gg/godkuprojectreborn).
 
 ## Commands
