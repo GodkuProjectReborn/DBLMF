@@ -1,5 +1,8 @@
 # DBLMF
 
+[![Discord](https://invidget.switchblade.xyz/godkuprojectreborn)](https://discord.gg/godkuprojectreborn)
+
+
 An open source experimental dragon ball legends modding framework made in CSharp.
 
 ## navigation
