@@ -2,7 +2,7 @@
 
 ![Banner](https://dblegends.net/assets/card_cutins/BChaCut_0621_GogetaSS4_621.webp)
 
-For more mod's and support visit [godku project](https://discord.gg/godkuprojectreborn).
+For more mods and support visit [godku project](https://discord.gg/godkuprojectreborn).
 
 ## Commands
 
@@ -21,3 +21,10 @@ DBLMF/
     InvertFile/
             InvertFile.cs
             InvertFile.csproj
+
+## Links
+
+[Wiki](https://github.com/GodkuProjectReborn/DBLMF/wiki).
+
+
+[Github](https://github.com/GodkuProjectReborn/DBLMF)
