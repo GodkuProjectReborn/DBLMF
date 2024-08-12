@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <Version>1.0.0</Version>
+    <Version>1.1.0</Version>
     <Authors>Godku Project</Authors>
     <Company>GodkuDBL</Company>
     <Description>Framework for Dragon Ball Legends file Modding</Description>
@@ -17,8 +17,8 @@
     <Authors>Godku Project Team</Authors>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <NeutralLanguage>en</NeutralLanguage>
-    <AssemblyVersion>1.0.0.0</AssemblyVersion>
-    <FileVersion>1.0.0.0</FileVersion>
+    <AssemblyVersion>1.1.0</AssemblyVersion>
+    <FileVersion>1.1.0</FileVersion>
     <InformationalVersion>1.0.0+1</InformationalVersion>
     <Authors>Godku Project Team</Authors>
     <PackageReleaseNotes>Initial release of DBLMF</PackageReleaseNotes>
